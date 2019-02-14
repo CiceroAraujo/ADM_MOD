@@ -1,0 +1,14 @@
+input_file: '18x18x18'
+rs:
+  r0: 1  # r0 é,,assjsau
+  r1: 1
+
+gravity: False
+MPFA: False
+K: [1, 1, 1]
+So0: 0.8
+
+# Centroides dos poçoes
+pocos:
+  0.5 0.5 0.5
+  17.5 17.5 17.5
